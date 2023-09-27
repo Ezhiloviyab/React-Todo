@@ -1,0 +1,47 @@
+/* src/App.css */
+.container {
+  margin-top: 100px;
+  background-color: orange;
+  padding: 20px;
+  border-radius: 10px;
+  align-items: center;
+  margin: 0 auto;
+  display: flex;
+justify-content: center;
+align-items: center;
+}
+
+body {
+  background-color: orange;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+*{
+  background-color: orange;
+
+}
+
+.App {
+  text-align: center;
+}
+
+.list-group-item.completed {
+  text-decoration: line-through;
+}
+.card{
+  height: 400px;
+  width: 500px;
+}
+h3{
+  color: wheat;
+  font-size: 30px;
+  font-weight: 1000px;
+  text-shadow: 4px 4px 3px gold;
+}
+button{
+  justify-content: end;
+  align-items: left;
+  align-content: end;
+}
